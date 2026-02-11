@@ -1,3 +1,4 @@
+#Analisi con prima prova di GIT
 #script per fare PCA dynamica, n=3 per condizione (i questo caso)
 
 #setwd ("C:\\Users\\costa\\OneDrive\\Desktop\\OneDrive - CNR\\Lavoro CNR\\lavoro CNR\\Progetti\\2025 Biolog\\2024_ Biolog Eleonora") #da lavoro
